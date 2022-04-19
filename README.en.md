@@ -102,7 +102,7 @@
 6. 第一次需要install安装到本地仓库
 ![](https://dlsdys-gz.oss-cn-guangzhou.aliyuncs.com/zhglxt/helpImages/sys/5.jpg?versionId=CAEQDRiBgMCkxu_C0xciIDI5MDQ3ZTE2YzIxYTRjN2NiZDA1YTI4NzIxMzE2OWI2)
 
-7. 导入数据文件的数据到本地数据库
+7. 导入数据文件的数据到本地数据库  
 ![](https://dlsdys-gz.oss-cn-guangzhou.aliyuncs.com/zhglxt/helpImages/sys/11.jpg?versionId=CAEQDRiBgMCNooSC1BciIGUzNTVlZGUxNTQ3ZDRiNTdiMDQyMDExNDNhNWUyNTVl)
 
 8. 修改MySQL数据库账号密码为自己本地的数据库的账号密码
